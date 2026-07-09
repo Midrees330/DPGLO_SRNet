@@ -1,6 +1,6 @@
 # DPGLO_SRNet
 Dual-Path Global-Local Feature Fusion with Shadow-Aware Guidance for Image Shadow Removal
-- This code is directly related to the manuscript submitted to The (Journal): `Dual-Path Global-Local Feature Fusion with Shadow-Aware Guidance for Image Shadow Removal.' 
+- This code is directly related to the manuscript submitted to The Computer Vision and Image Understanding(CVIU): `Dual-Path Global-Local Feature Fusion with Shadow-Aware Guidance for Image Shadow Removal.' 
 If you use this code or models in your research, please cite the corresponding manuscript.
 # Requirement
 - Python 3.11
